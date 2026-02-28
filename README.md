@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ronz</h1>
 <h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
-- 📝 I regularly write articles on [coming soon ...](coming soon ...)
+- 📝 I regularly write articles on coming soon ...
 
 - 📫 How to reach me **huukha.20041004@gmail.com**
 
