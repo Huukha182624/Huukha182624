@@ -7,7 +7,7 @@
 - 📝 I regularly write articles on [coming soon ...](coming soon ...)
 
 - 📫 How to reach me **huukha.20041004@gmail.com**
-- ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huukha182624/Huukha182624/output/pacman-contribution-graph-dark.svg">
