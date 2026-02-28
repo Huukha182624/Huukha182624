@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🐍 Contribution Snake
+
 
 ![Snake animation](https://raw.githubusercontent.com/Huukha182624/snake-animation/main/github-contribution-grid-snake.svg)
