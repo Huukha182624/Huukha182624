@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nguyen.huu.144437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.huu.144437" height="30" width="40" /></a>
+<a href="https://fb.com/nguyen.huu.144437"(https://www.facebook.com/share/1CLtoaTykz/?mibextid=wwXIfr) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen.huu.144437" height="30" width="40" /></a>
 <a href="https://instagram.com/ahhkka_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahhkka_04" height="30" width="40" /></a>
 </p>
 
